@@ -3,6 +3,7 @@
 /**
  * main: Print the word _putchar.
  *
+ * Desc: A function that prints characters.
  * Return: Always 0 (Success)
  */
 
