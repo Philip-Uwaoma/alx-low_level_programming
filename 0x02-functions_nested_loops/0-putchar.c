@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * File: _purchar.c
  * main: Print the word _putchar.
  *
  * Desc: A function that prints characters.
