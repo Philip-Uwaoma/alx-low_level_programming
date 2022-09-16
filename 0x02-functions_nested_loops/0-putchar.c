@@ -9,6 +9,11 @@
  */
 
 int main(void)
+/**
+ * main - Prints putchar.
+ *
+ * Return: Always 0.
+ */
 {
 	int i;
 	char p[] = "_putchar";
