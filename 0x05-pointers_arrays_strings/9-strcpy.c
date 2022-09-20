@@ -3,6 +3,7 @@
  * Auth: Philip
  */
 
+#include<stdio.h>
 #include "main.h"
 
 /**
